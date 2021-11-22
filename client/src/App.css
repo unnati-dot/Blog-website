@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.component{
+  position: absolute;
+  margin-top: 100px;
+}
